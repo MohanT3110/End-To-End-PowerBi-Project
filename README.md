@@ -31,7 +31,7 @@ including sales amount, date, region, and product category.
 
 ## Feedback
 
-If you have any feedback or suggestions for improvement, please feel free to [open an issue](https://github.com/mohanT3110/sales-dashboard/issues) 
-or [create a pull request](https://github.com/mohanT3110/sales-dashboard/pulls).
+If you have any feedback or suggestions for improvement, please feel free to [open an issue](https://github.com/MohanT3110/End-To-End-PowerBi-Project/issues) 
+or [create a pull request](https://github.com/MohanT3110/End-To-End-PowerBi-Project/pulls).
 
 Enjoy exploring the sales dashboard!
